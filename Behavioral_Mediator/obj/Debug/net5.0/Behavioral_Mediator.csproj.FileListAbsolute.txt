@@ -1,0 +1,16 @@
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.exe
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.deps.json
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.runtimeconfig.json
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.runtimeconfig.dev.json
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.dll
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\ref\Behavioral_Mediator.dll
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\bin\Debug\net5.0\Behavioral_Mediator.pdb
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.csprojAssemblyReference.cache
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.AssemblyInfoInputs.cache
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.AssemblyInfo.cs
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.dll
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\ref\Behavioral_Mediator.dll
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.pdb
+C:\Users\huben\source\repos\Design_Paterns\Behavioral_Mediator\obj\Debug\net5.0\Behavioral_Mediator.genruntimeconfig.cache

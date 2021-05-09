@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Behavioral_Mediator/1.0.0": {
+        "runtime": {
+          "Behavioral_Mediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Behavioral_Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

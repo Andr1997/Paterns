@@ -1,0 +1,15 @@
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.exe
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.deps.json
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.runtimeconfig.json
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.runtimeconfig.dev.json
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.dll
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\ref\Creational_Prototype.dll
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\bin\Debug\net5.0\Creational_Prototype.pdb
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.AssemblyInfoInputs.cache
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.AssemblyInfo.cs
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.dll
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\ref\Creational_Prototype.dll
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.pdb
+C:\Users\huben\source\repos\Design_Paterns\Creational_Prototype\obj\Debug\net5.0\Creational_Prototype.genruntimeconfig.cache
